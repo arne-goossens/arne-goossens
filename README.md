@@ -1,4 +1,4 @@
-## Hi there 👋, I'm [arne-goossens][https://github.com/arne-goossens]
+## Hi there 👋, I'm [arne-goossens](https://github.com/arne-goossens)
 
 <!--
 **arne-goossens/arne-goossens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
